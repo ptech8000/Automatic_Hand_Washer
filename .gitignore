@@ -1,0 +1,19 @@
+# Arduino IDE build and editor files
+build/
+*.hex
+*.elf
+*.bin
+*.map
+*.d
+*.o
+*.a
+*.so
+*.dylib
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
